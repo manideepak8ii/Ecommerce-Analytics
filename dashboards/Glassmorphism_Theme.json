@@ -1,0 +1,83 @@
+{
+    "name": "Glassmorphism Dark Pro",
+    "dataColors": ["#00F2FF", "#7000FF", "#FF007A", "#FFD700", "#00FFAB", "#FF4D00", "#8A2BE2", "#00CED1"],
+    "background": "#0B0E14",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#00F2FF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#1A1F2B" } },
+                        "transparency": 40
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#FFFFFF" } },
+                        "transparency": 80,
+                        "radius": 15
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "type": "Default"
+                    }
+                ],
+                "outspacePane": [
+                    {
+                        "backgroundColor": { "solid": { "color": "#0B0E14" } },
+                        "foregroundColor": { "solid": { "color": "#FFFFFF" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#0B0E14" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "color": { "solid": { "color": "#00F2FF" } },
+                        "fontSize": 25,
+                        "fontFamily": "Segoe UI Semibold"
+                    }
+                ],
+                "categoryLabels": [
+                    {
+                        "color": { "solid": { "color": "#A0AEC0" } },
+                        "fontSize": 12
+                    }
+                ]
+            }
+        },
+        "barChart": {
+            "*": {
+                "categoryAxis": [
+                    {
+                        "show": true,
+                        "labelColor": { "solid": { "color": "#FFFFFF" } }
+                    }
+                ],
+                "valueAxis": [
+                    {
+                        "show": true,
+                        "labelColor": { "solid": { "color": "#FFFFFF" } }
+                    }
+                ]
+            }
+        }
+    }
+}
