@@ -279,6 +279,6 @@ Please consider giving this repository a ⭐ on GitHub.
 B.Tech Chemical Engineering  
 National Institute of Technology Warangal
 
-GitHub: https://github.com/manideepak8i
+GitHub: https://github.com/manideepak8ii
 
-LinkedIn: https://linkedin.com/in/MANI DEEPAK TEJAVATH
+LinkedIn: https://www.linkedin.com/in/mani-deepak-tejavath-9bb90420b/
